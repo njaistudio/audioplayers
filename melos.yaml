@@ -1,5 +1,5 @@
 name: audioplayers
-repository: https://github.com/bluefireteam/audioplayers
+repository: https://github.com/njaistudio/audioplayers
 
 packages:
   - packages/**
